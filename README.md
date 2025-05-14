@@ -1,6 +1,6 @@
 # 📊 GitHub Stats:  
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-coder-1&theme=dark&hide_border=false&include_all_commits=true" width="49%" height="50%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi424&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-coder-1&theme=dark&hide_border=false" width="49%" height="50%" alt="GitHub Streak Stats">  
 </div> 
 
