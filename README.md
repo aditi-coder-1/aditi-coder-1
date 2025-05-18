@@ -1,13 +1,16 @@
 <div>
   <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="aditi-coder-11" /> I'm Aditi Gopinath </h1> 
 <div>
-<h3 align="center"> BTech CSE student at RV University | I turn coffee and curiosity into code that solves real problems. <br>
+<h3 align="center"> BTech CSE student @RV University, Bangalore. <br>
+<h3 align="center"> I turn coffee and curiosity into code that solves real problems! <br>
 <br>
 </h3>
- 
-- All of my projects are available at [github](https://github.com/aditi-coder-11)
 
-- Reach me @aditigopinath2@gmail.com
+- 🔗 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/aditi-gopinath-904b2b291/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+</a>
+
+- 🔗 Reach me at aditigopinath2@gmail.com
 
 ---
 # 📊 GitHub Stats:  
@@ -36,6 +39,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=aditi-coder-11&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
+
 
 
 
